@@ -1,6 +1,6 @@
 # MyFirstTest
 This is my first test project
 
-æˆ‘åº”è¯¥åœ¨è¿™ä¸ªé¡¹ç›®é‡Œæç‚¹å•¥å‘¢ï¼Ÿå¤§å®¶ç»™ç‚¹å»ºè®®å“ˆï¼
+ÎÒÓ¦¸ÃÔÚÕâ¸öÏîÄ¿Àï¸ãµãÉ¶ÄØ£¿´ó¼Ò¸øµã½¨Òé¹ş£¡
 
-I made some changes on a separate branch. Pull requestsçš„ Reviewerè¦æ±‚æˆ‘å†å†™ä¸€ç‚¹ä¸­æ–‡è¯´æ˜ï¼
+I made some changes on a separate branch. Pull requestsµÄ ReviewerÒªÇóÎÒÔÙĞ´Ò»µãÖĞÎÄËµÃ÷£¡
